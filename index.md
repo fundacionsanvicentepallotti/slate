@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###### ESCUELA DE TEOLOGÍA, EVANGELIZACIÓN Y CATEQUESIS MARÍA, MADRE Y MAESTRA<br><br>
+ESCUELA DE TEOLOGÍA, EVANGELIZACIÓN Y CATEQUESIS MARÍA, MADRE Y MAESTRA<br><br>
 #### [Catequética I](./another-page.html).<br>
 #### [Documento Conciliar N° 4 ](./uno-page.html).<br>
 #### [La Revelación se aborda describiendo su naturaleza, su propósito, sus acciones y sus fuentes ](./dos-page.html).
