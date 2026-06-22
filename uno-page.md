@@ -90,4 +90,7 @@ Responda las siguientes preguntas basándose exclusivamente en el contenido del 
 3.  **Falsa (F):** El documento distingue que la ERE pertenece al ámbito escolar y al diálogo con la cultura/ciencias, mientras que la Catequesis corresponde al ámbito de la comunidad eclesial y busca la vivencia de la fe.
 4.  **Respuesta b:** En un proceso de iniciación en la fe que introduzca a la vida de la comunidad.
 5.  **Respuesta a:** El Ser (referencia a la espiritualidad y persona), el Saber (conocimiento del mensaje y el contexto) y el Saber Hacer (dimensión pedagógica y comunicativa).
+---
+ 📝
 
+[back](./)
