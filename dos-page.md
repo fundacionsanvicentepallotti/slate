@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](./)
+
 # Guía de Estudio
 ## Directorio para la Catequesis
 
@@ -100,6 +102,4 @@ La catequesis bebe de diversas fuentes que convergen en la Palabra de Dios:
 * **La Belleza (*via pulchritudinis*):** El camino de la belleza es esencial para llegar al corazón humano y encontrar a Dios.
 
 ---
- 📝
 
-[back](./)
