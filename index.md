@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Catequética I](./another-page.html).<br>
 [Documento Conciliar N° 4 ](./uno-page.html).<br>
-[La Revelación se aborda describiendo su naturaleza, su propósito, sus acciones y sus fuentes ](./uno-page.html).
+[La Revelación se aborda describiendo su naturaleza, su propósito, sus acciones y sus fuentes ](./dos-page.html).
 
 There should be whitespace between paragraphs.
 
