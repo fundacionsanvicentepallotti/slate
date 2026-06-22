@@ -4,8 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-[Link to another page](./uno-page.html).
+[Catequética I](./another-page.html).
+[Documento Conciliar N° 4 ](./uno-page.html).
 
 There should be whitespace between paragraphs.
 
