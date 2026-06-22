@@ -98,3 +98,8 @@ La catequesis bebe de diversas fuentes que convergen en la Palabra de Dios:
 * **La Teología:** Ofrece una inteligencia crítica y sistemática de la fe.
 * **La Cultura Cristiana:** El patrimonio histórico, artístico y moral acumulado por siglos.
 * **La Belleza (*via pulchritudinis*):** El camino de la belleza es esencial para llegar al corazón humano y encontrar a Dios.
+
+---
+ 📝
+
+[back](./)
